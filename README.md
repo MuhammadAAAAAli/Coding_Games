@@ -1,4 +1,4 @@
-#### Resources 
+## Resources 
 
 [Game of life Video](https://www.youtube.com/watch?v=C2vgICfQawE)
 
