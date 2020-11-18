@@ -1,6 +1,4 @@
-### Video
-
-[Game of life Video](https://www.youtube.com/watch?v=C2vgICfQawE)
+[Watch 'Game of Life' video with classical music in the background](https://youtu.be/C2vgICfQawE?t=79)
 
 ### Resources 
 
