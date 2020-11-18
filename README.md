@@ -2,9 +2,9 @@
 
 ## Resources 
 
-[Project Euler Website](https://projecteuler.net/)
+[Project Euler website](https://projecteuler.net/)
 
-[Games PDF](https://ipfs.io/ipfs/QmXPL2hAubFUFf3W4mWhCoHntMetwCH7HLmSqvJxgkUetf)
+[18 algorithms games pdf format](https://ipfs.io/ipfs/QmXPL2hAubFUFf3W4mWhCoHntMetwCH7HLmSqvJxgkUetf)
 
 <hr>
 
