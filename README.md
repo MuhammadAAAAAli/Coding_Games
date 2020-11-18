@@ -1,6 +1,8 @@
-## Resources 
+### Videos
 
 [Game of life Video](https://www.youtube.com/watch?v=C2vgICfQawE)
+
+### Resources 
 
 [Project Euler Website](https://projecteuler.net/)
 
