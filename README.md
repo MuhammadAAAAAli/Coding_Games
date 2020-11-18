@@ -1,6 +1,6 @@
 [Here you can watch 'Game of Life' video with classical music playing in the background](https://youtu.be/C2vgICfQawE?t=79)
 
-### Resources 
+## Resources 
 
 [Project Euler Website](https://projecteuler.net/)
 
